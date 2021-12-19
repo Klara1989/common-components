@@ -1,0 +1,1 @@
+This is to be used for headers which require a background image.
