@@ -1,0 +1,1 @@
+This is a generic code for a simple header component.
